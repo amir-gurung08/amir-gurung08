@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: Python<br>💬 Ask me about: ..............<br>⚡ Fun fact: I love Rhino
+🌱 I’m currently learning: Web Development<br>💬 Ask me about: ..............<br>⚡ Fun fact: I love Rhino
 
 
 ## 🌐 Socials:
